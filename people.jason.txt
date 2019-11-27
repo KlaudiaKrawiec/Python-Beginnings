@@ -1,0 +1,19 @@
+[{
+  "name": "Riordan",
+  "surname": "Wolfenden",
+  "emai": "rwolfenden0@bbc.co.uk",
+  "gender": "Male",
+  "salary": 3745
+}, {
+  "name": "Connie",
+  "surname": "Brusby",
+  "email": "cbrusby1@amazon.com",
+  "gender": "Female",
+  "salary": 6300
+}, {
+  "name": "Kelly",
+  "surname": "Boutwell" ,
+  "email": "kboutwell2@ibm.",
+  "gender": "Female",
+  "salary": 6258
+}]
